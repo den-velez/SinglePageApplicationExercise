@@ -1,4 +1,4 @@
-aconst Header = ()=>{
+const Header = () => {
   return `
     <div class="Header-main">
       <div class="Header-logo">
@@ -14,7 +14,7 @@ aconst Header = ()=>{
         </a>
       </div>
     </div>
-  `
-}
+  `;
+};
 
-export default Header
+export default Header;
