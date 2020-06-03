@@ -8,14 +8,18 @@
 ### Install 
   
   - npm 
+  ```
   npm install @babel/core babel.loader webpack webpack-cli webpack-dev-server
-  
+  ```
   - pulgins
+  ```
   npm install html-webpack-plugin copy-webpack-plugin
-
+  ```
+  
 ### scripts
+  ```
   npm run build 
   npm run start (local dev-server)
-  
+  ```
 ### API
   data from (https://rickandmortyapi.com/)
